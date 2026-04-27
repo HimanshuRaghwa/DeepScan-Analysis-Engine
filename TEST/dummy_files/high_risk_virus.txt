@@ -1,0 +1,1 @@
+This is a dummy file to trigger the High Risk (Malware) response in the DeepScan demo.

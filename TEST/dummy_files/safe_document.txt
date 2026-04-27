@@ -1,0 +1,1 @@
+This is a normal dummy file that will be scanned as Safe.
